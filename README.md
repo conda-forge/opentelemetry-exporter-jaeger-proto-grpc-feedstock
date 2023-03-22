@@ -1,11 +1,11 @@
-About opentelemetry-exporter-jaeger-proto-grpc
-==============================================
+About opentelemetry-exporter-jaeger-proto-grpc-feedstock
+========================================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-exporter-jaeger-proto-grpc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/open-telemetry/opentelemetry-python/tree/main/exporter/opentelemetry-exporter-jaeger-proto-grpc
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-exporter-jaeger-proto-grpc-feedstock/blob/main/LICENSE.txt)
 
 Summary: Jaeger Protobuf Exporter for OpenTelemetry
 
