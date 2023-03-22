@@ -1,5 +1,5 @@
 {% set name = "opentelemetry-exporter-jaeger-proto-grpc" %}
-{% set version = "1.16.0" %}
+{% set version = "1.17.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/opentelemetry_exporter_jaeger_proto_grpc-{{ version }}.tar.gz
-  sha256: 61249214c52062a94b13110cfc8c7f8bea85614a796c7aca7be8f486ae5daeb7
+  sha256: d0ce1250d5eac04ce8dba517731f6c0a8d2a7e0586408b657729465cd50bcecc
 
 build:
   noarch: python
